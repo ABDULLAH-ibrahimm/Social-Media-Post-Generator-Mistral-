@@ -26,7 +26,7 @@ This project is ideal for marketers, content creators, and businesses looking to
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/social-media-post-generator.git
+git clone https://github.com/yourusername/social-media-post-generator.git](https://github.com/ABDULLAH-ibrahimm/Social-Media-Post-Generator-Mistral-.git
 cd social-media-post-generator
 ```
 
