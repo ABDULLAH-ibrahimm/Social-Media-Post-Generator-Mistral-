@@ -1,4 +1,4 @@
-# Project 2 – Social Media Post Generator
+#  Social Media Post Generator
 
 ## Overview
 The **Social Media Post Generator** is an AI-powered tool that creates engaging, platform-specific posts based on a given topic, tone, and target platform.  
